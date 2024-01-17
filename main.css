@@ -1,0 +1,31 @@
+.proxima_logo{
+    /* border: solid black 2px; */
+    margin-top: 9   0px    ;
+    justify-content: center;
+    /* margin: 0; */
+    display: flex;
+    align-items: center;
+
+
+}
+.uacademy_logo{
+    margin-top: 60px;
+    /* border: solid black 2px; */
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+.text{
+    
+    margin-top: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+}
+body{
+    
+    background-image:radial-gradient(rgb(226, 68, 68), rgb(27, 27, 68) ) 
+    
+}
